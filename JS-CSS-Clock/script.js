@@ -30,9 +30,6 @@ const setDate = () => {
   hourHand.style.transform = `rotate(${hoursDegrees}deg)`;
   minHand.style.transform = `rotate(${minDegrees}deg)`;
   secondHand.style.transform = `rotate(${secondsDegrees}deg)`;
-
-  
-
 }
 
 setInterval(setDate, 1000);
