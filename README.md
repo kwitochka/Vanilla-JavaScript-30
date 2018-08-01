@@ -9,3 +9,5 @@
 5. Day-5: [Flex Gallery](https://kwitochka.github.io/Vanilla-JavaScript-30/Flex-Panel-Gallery)
 6. Day-6: Data-fetching and displaying suggestions based on the input.  
 [Type Ahead](https://kwitochka.github.io/Vanilla-JavaScript-30/Type-Ahead)
+7. Day-8: [HTML Canvas](https://kwitochka.github.io/Vanilla-JavaScript-30/HTML5-Canvas)     
+<img src = "https://pbs.twimg.com/media/DjhER2LXsAE5y9q.jpg" width = "250px" />
