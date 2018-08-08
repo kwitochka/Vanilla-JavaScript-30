@@ -11,3 +11,4 @@
 [Type Ahead](https://kwitochka.github.io/Vanilla-JavaScript-30/Type-Ahead)
 7. Day-8: [HTML Canvas](https://kwitochka.github.io/Vanilla-JavaScript-30/HTML5-Canvas)     
 <img src = "https://pbs.twimg.com/media/DjhER2LXsAE5y9q.jpg" width = "250px" />
+8. Day 10: Check multiple boxes with shift key: https://kwitochka.github.io/Vanilla-JavaScript-30/Hold-Shift-and-Check-Checkboxes
