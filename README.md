@@ -15,4 +15,4 @@
 
 9. [Custom-Video-Player](https://kwitochka.github.io/Vanilla-JavaScript-30/Custom-Video-Player)
 
-10. [Unicorns](https://kwitochka.github.io/Vanilla-JavaScript-30/Unicorns)
+10. [Unicorns](https://kwitochka.github.io/Vanilla-JavaScript-30/Unicorns). Please see it in Mozilla Firefox or another browser but Chrome, as the latest doesn't support http sites. 
